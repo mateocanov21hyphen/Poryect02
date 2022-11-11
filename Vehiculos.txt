@@ -1,0 +1,5 @@
+2005 Mazda   5000   verde
+2010 Toyota   8000   blanco
+2023 BMW      20000   rojo
+2003 Merceds      4500   verde
+2006 Ford    8000   verde
